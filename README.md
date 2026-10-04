@@ -1,24 +1,23 @@
-# App-Releases (Ã¶ffentlich)
+# App-Releases (oeffentlich)
 
-Zentrales **Ã¶ffentliches** Repository fÃ¼r **APK-Downloads aller Apps**.
+Zentrales **oeffentliches** Repository fuer **APK-Downloads aller Apps**.
 
-- **Kein Quellcode** â€“ nur Installationsdateien
+- **Kein Quellcode** - nur Installationsdateien
 - Quellcode bleibt in **privaten** Entwicklungs-Repos
 
 ## Apps
 
 | App | APK-Datei | Release-Tags |
 |-----|-----------|--------------|
-| **ToDo Listen** | `ToDo-Listen.apk` | `todo-listen-vâ€¦` |
+| **ToDo Listen** | \ToDo-Listen.apk\ | \	odo-listen-v...\ |
+| **Medienbox** | \Medienbox.apk\ | \medienbox-v...\ |
 
-*(Weitere Apps werden hier ergÃ¤nzt.)*
+## Installation
 
-## Installation (Beispiel ToDo Listen)
+1. [Releases oeffnen](https://github.com/omkin/App-Releases/releases)
+2. Den Eintrag der App suchen, zum Beispiel **\medienbox-v...\** oder **\	odo-listen-v...\**
+3. Die APK herunterladen und installieren
 
-1. [Releases Ã¶ffnen](https://github.com/omkin/App-Releases/releases)
-2. Neuesten Eintrag mit Tag **`todo-listen-vâ€¦`** suchen
-3. **`ToDo-Listen.apk`** herunterladen und installieren
+## Fuer Entwickler
 
-## FÃ¼r Entwickler
-
-Neue App hinzufÃ¼gen: **`docs/APP-RELEASES-HUB.md`** in den jeweiligen privaten Projekten.
+Neue App hinzufuegen: **\docs/APP-RELEASES-HUB.md\** in den jeweiligen privaten Projekten.
